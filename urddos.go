@@ -1,4 +1,3 @@
-/*
 Coded by Rohan maurya
 Please fking code ur script by ur self
 */
